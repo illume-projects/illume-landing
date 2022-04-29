@@ -1,3 +1,37 @@
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
   background-color: #212226;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Staatliches', cursive;
+  font-size: 72px;
+}
+
+.fa-instagram {
+  font-size: 64px;
+  color: white;
+}
+
+.fa-instagram:hover,
+a:hover {
+  color: #454650;
+  text-decoration: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
