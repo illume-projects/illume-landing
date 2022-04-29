@@ -46,4 +46,8 @@ a {
     font-size: 20px;
     text-align: center;
   }
+
+  .row {
+    margin-bottom: 100px;
+  }
 }
