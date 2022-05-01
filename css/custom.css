@@ -80,7 +80,6 @@ label {
 .btn:active,
 .btn:focus {
   background-color: transparent;
-  color: #212226;
 }
 
 @media (max-width: 768px) {
